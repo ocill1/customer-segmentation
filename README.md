@@ -90,6 +90,11 @@ jupyter notebook notebooks/customer_segmentation.ipynb
 
 `Kernel → Restart & Run All`
 
+**5. Jalankan Streamlit App**
+```bash
+streamlit run app.py
+```
+
 ---
 
 ## 📚 References
